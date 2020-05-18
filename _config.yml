@@ -2,8 +2,8 @@
 title: Mustafa Writes!
 email: 
 description: "My experiences as a Computer Science Engineering Student."
-baseurl: ""
-url: "https://mustafa1310.github.io/MyBlogs/"
+baseurl: "\MyBlogs"
+url: "https://mustafa1310.github.io/MyBlogs"
 github_username:  Mustafa1310
 
 # Build settings
