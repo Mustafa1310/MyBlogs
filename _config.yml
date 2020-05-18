@@ -1,12 +1,10 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Mustafa Writes!
 email: 
-description: "Musings of a Computer Scientist."
+description: "My Experience as a Computer Science Engineering Student."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
-
+url: "https://mustafa1310.github.io/MyBlogs/"
+github_username:  Mustafa1310
 # Build settings
 markdown: kramdown
 permalink: pretty
